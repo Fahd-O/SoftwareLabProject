@@ -8,7 +8,7 @@ var questions =
 
     ["3. When we opens a website on the internet, we see 'WWW.' in the Wedsite address. What is the full meaning of 'WWW' ?", "world wide woord", "world wide web", "word widing works", "world web wide", "B"],
 
-    ["<p style='text-align: center;'><img src='./Images./2_Cursor..png' alt='Cursor'></p> <br> 4. The arrow like symbol on the computer screen used for pointing, clicking, selecting etc... is called the  ?", "mouse", "arrow", "hand", "cursor", "D"],
+    ["<p style='text-align: center;'><img src='2_Cursor..png' alt='Cursor'></p> <br> 4. The arrow like symbol on the computer screen used for pointing, clicking, selecting etc... is called the  ?", "mouse", "arrow", "hand", "cursor", "D"],
 
     ["5. Many of the interior hardware components of a computer are connected to the main circuit board, called the ___________", "Socket", "Motherboard", "White Board", "Fatherboard", "B"],
 
@@ -18,7 +18,7 @@ var questions =
 
     ["8. These are examples of Programming applications except ________", "A Website", "A Word Processing App", "A University Matriculation Program", "Road Traffic Light", "C"],
 
-    ["<img src='./Images./Keyboard..png' alt='Keyboard'> Keyboard <img src='./Images./Mouse..png' alt='Mouse'> Mouse <img src='./Images./Monitor..png' alt='Monitor'> Monitor <img src='./Images./Scanner..png' alt='Scanner'> Scanner <br><br><br> 9. These are examples of input devices, except ________", "The Keyboard right in front of you", "The mouse you're holding", "The screen you are looking at", "A Scanner", "C"],
+    ["<img src='Keyboard..png' alt='Keyboard'> Keyboard <img src='Mouse..png' alt='Mouse'> Mouse <img src='Monitor..png' alt='Monitor'> Monitor <img src='Scanner..png' alt='Scanner'> Scanner <br><br><br> 9. These are examples of input devices, except ________", "The Keyboard right in front of you", "The mouse you're holding", "The screen you are looking at", "A Scanner", "C"],
 
     ["10. Main memory is sometimes called ________ because it looses its information when power is removed.", "Volatile", "Super", "Controller", "Loser", "A"],
 
