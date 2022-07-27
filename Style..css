@@ -27,11 +27,18 @@ body
     color: black;
     text-decoration: none;
     font-size: medium;
-    border: none;
+    border: red thin solid;
 }
 
 .text
 {
     font-size: larger;
+    margin: 20%;
+}
+
+.text2
+{
+    font-size: larger;
+    text-align: center;
 }
 
