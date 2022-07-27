@@ -33,7 +33,7 @@ body
 .text
 {
     font-size: larger;
-    text-align: center;
+    margin-left: 20%;
 }
 
 .text2
