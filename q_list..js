@@ -6,7 +6,7 @@ var questions =
 
     ["2. The ________ components of a computer system are the data and the computer programs. ", "software", "Windows", "Light", "Linux", "A"],
 
-    ["3. When we opens a website on the internet, we see 'WWW.' in the Wedsite address. What is the full meaning of 'WWW' ?", "world wide woord", "world wide web", "word widing works", "world web wide", "B"],
+    ["3. When we opens a website on the internet, we see 'WWW.' in the Website address. What is the full meaning of 'WWW' ?", "world wide woord", "world wide web", "word widing works", "world web wide", "B"],
 
     ["<p style='text-align: center;'><img src='2_Cursor..png' alt='Cursor'></p> <br> 4. The arrow like symbol on the computer screen used for pointing, clicking, selecting etc... is called the  ?", "mouse", "arrow", "hand", "cursor", "D"],
 
