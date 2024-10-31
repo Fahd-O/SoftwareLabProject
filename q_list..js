@@ -6,7 +6,7 @@ var questions =
 
     ["2. The ________ components of a computer system are the data and the computer programs. ", "software", "Windows", "Light", "Linux", "A"],
 
-    ["3. When we opens a website on the internet, we see 'WWW.' in the Website address. What is the full meaning of 'WWW' ?", "world wide woord", "world wide web", "word widing works", "world web wide", "B"],
+    ["3. When we open a website on the internet, we see 'WWW.' in the Website address. What is the full meaning of 'WWW' ?", "world wide woord", "world wide web", "word widing works", "world web wide", "B"],
 
     ["<p style='text-align: center;'><img src='2_Cursor..png' alt='Cursor'></p> <br> 4. The arrow like symbol on the computer screen used for pointing, clicking, selecting etc... is called the  ?", "mouse", "arrow", "hand", "cursor", "D"],
 
@@ -14,11 +14,11 @@ var questions =
 
     ["6. The ________ components of a computer system are the physical, electronic and mechanical parts we can see and touch.", "Application", "Hardware", "Code", "Software", "B"],
 
-    ["7. The ____________ supplies power for most of the components of a desktop computer system", "Solar Panel", "Food", "Power Supply", "Internet", "C"],
+    ["7. The ____________ supplies power to most of the components of a desktop computer system", "Solar Panel", "Food", "Power Supply", "Internet", "C"],
 
     ["8. These are examples of Programming applications except ________", "A Website", "A Word Processing App", "A University Matriculation Program", "Road Traffic Light", "C"],
 
-    ["<img src='Keyboard..png' alt='Keyboard'> Keyboard <img src='Mouse..png' alt='Mouse'> Mouse <img src='Monitor..png' alt='Monitor'> Monitor <img src='Scanner..png' alt='Scanner'> Scanner <br><br><br> 9. These are examples of input devices, except ________", "The Keyboard right in front of you", "The mouse you're holding", "The screen you are looking at", "A Scanner", "C"],
+    ["<img src='Keyboard..png' alt='Keyboard'> Keyboard <img src='Mouse..png' alt='Mouse'> Mouse <img src='Monitor..png' alt='Monitor'> Monitor <img src='Scanner..png' alt='Scanner'> Scanner <br><br><br> 9. These are examples of input devices, except ________", "The Keyboard right in front of you", "The mouse you may be holding now", "The screen you are looking at", "A Scanner", "C"],
 
     ["10. Main memory is sometimes called ________ because it looses its information when power is removed.", "Volatile", "Super", "Controller", "Loser", "A"],
 
