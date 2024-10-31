@@ -13,9 +13,9 @@ function renderQuestion()
 
     if(pos >= questions.length)
     {
-        test.innerHTML = "<h2>you got "+correct+" of "+questions.length+" questions correct</h2> <button id='button'> <a href='index.html'>Done</a> </buton>";
+        test.innerHTML = "<h2>You got "+correct+" of "+questions.length+" questions correct</h2> <button id='button'> <a href='index.html'>Done</a> </buton>";
 
-        _("test_status").innerHTML = "Test Completed";
+        _("test_status").innerHTML = "Test Completed !";
 
         pos = 0;
         correct = 0;
